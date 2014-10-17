@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nte:home|Door43 (nte)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nte|d43-nte repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nte/archive/master.zip|d43-nte.zip]]
+
+**Recent Changes**
+{{changes>ns = nte}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nte|Ethnologue data]]
+
